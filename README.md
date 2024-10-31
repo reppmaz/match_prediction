@@ -24,4 +24,4 @@ Decision Tree
 Random Forest
 After evaluating the models, Random Forest achieved the best accuracy score, making it the most effective algorithm for this dataset.
 
-presentation link: https://docs.google.com/presentation/d/1tCzR6JT7edsRJCoy4dllUVqCnfrIybTGl_HRslgBe-Y/edit#slide=id.g310507e82a7_0_1032
+Presentation link: https://docs.google.com/presentation/d/1tCzR6JT7edsRJCoy4dllUVqCnfrIybTGl_HRslgBe-Y/edit#slide=id.g310507e82a7_0_1032
